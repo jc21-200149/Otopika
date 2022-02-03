@@ -23,22 +23,18 @@ public class OtoKadai06  {
 			oto1.lightGreen();
 			oto2.lightRed();
 			oto2.sleep(10);
-			
 			oto1.lightYellow();
 			oto1.sleep(3);
 			oto1.lightRed();
 			oto1.sleep();
 			
-			
 			oto2.lightGreen();
 			oto1.lightRed();
 			oto1.sleep(10);
-			
 			oto2.lightYellow();
 			oto2.sleep(3);
 			oto2.lightRed();
 			oto2.sleep();
-			
 		}
 	}
 }
